@@ -33,4 +33,7 @@ xterm*|rxvt*)
     ;;
 esac
 ```
+## Useful resources
+Xterm controll sequences info:
+https://www.x.org/docs/xterm/ctlseqs.pdf
 
